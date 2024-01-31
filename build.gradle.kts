@@ -41,7 +41,7 @@ configure<BukkitPluginDescription> {
             description = "手配書を作成するためのコマンド"
             aliases = listOf("wantp")
             permission = "op"
-            usage = "/wantedPoster <プレイヤー名> <賞金>"
+            usage = "/wantedPoster <プレイヤー名> <懸賞金>"
         }
     }
 }
